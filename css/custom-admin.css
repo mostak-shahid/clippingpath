@@ -1,0 +1,34 @@
+.redux-main .redux-slides-accordion-group input.full-text, .redux-main .redux-slides-accordion-group textarea.large-text {
+    width: 100%;
+}
+.redux-main .redux-slides-accordion-group input[type=text], 
+.redux-main .redux-slides-accordion-group input[type=url], 
+.redux-main .redux-slides-accordion-group input[type=email], 
+.redux-main .redux-slides-accordion-group input[type=tel], 
+.redux-main .redux-slides-accordion-group select, .redux-main .redux-slides-accordion-group textarea {
+    background-color: #f1f1f1;
+    border: 1px solid;
+    border-color: #ccc #e6e6e6 #e6e6e6 #ccc;
+    padding: 4px;
+    font-size: 12px;
+    border-radius: 3px;
+    margin-bottom: 7px;
+}
+.redux-main .redux-option-photo {
+    max-height: 340px;
+    max-width: 340px;
+    padding: 5px;
+    margin-bottom: 0;
+    margin-top: 10px;
+    margin-right: 15px;
+    border: 1px solid #e3e3e3;
+    background: #f7f7f7;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+.redux-main .button.remove-photo {
+    margin-left: 10px;
+    color: #ef521d;    
+}

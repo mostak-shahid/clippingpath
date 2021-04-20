@@ -1,0 +1,44 @@
+/*BG Red*/
+body {background-color: #ff0000; color: #ffffff;}
+.navbar-custom-bg {background-color: rgba(255, 0, 0,1);}
+#main-header.tiny .navbar-custom-bg {background-color: rgba(255, 0, 0,1);}
+#section-banner .banner-content {background-color: rgba(255, 0, 0,.5); color: #ffffff;}
+/*Text Red*/
+.galleryHolder a.jp-current, .galleryHolder a:hover {background-color: #ffffff; color: #ff0000 !important;}
+#section-banner .owl-theme .owl-nav [class*=owl-] {background-color: #ffffff; color: #ff0000;}
+#section-feature .slider-part .wrapper .item .heading, #section-feature .slider-part .wrapper .item date  {background-color: rgba(255,255,255,.5);color: #ff0000;}
+#section-feature .slider-part .owl-theme .owl-nav [class*=owl-] {background-color: #ffffff; color: #ff0000}
+.pagination .page-numbers.current {background-color: #ffffff; color: #ff0000;}
+
+.galleryHolder a {border-color: #ffffff; color: #ffffff;}
+.img-container .text {color: #ffffff;}
+.title {color: #ffffff}
+.navbar-custom-bg .navbar-nav .nav-link {color: rgba(255,255,255,.90);}
+.navbar-custom-bg .navbar-nav .nav-item:hover .nav-link, .navbar-custom-bg .navbar-nav .active>.nav-link, .navbar-custom-bg .navbar-nav .nav-link.active, .navbar-custom-bg .navbar-nav .nav-link.show, .navbar-custom-bg .navbar-nav .show>.nav-link  {color: #ffffff}
+#section-feature {background-color: rgba(255,255,255,.1);}
+#section-feature .slider-part {background-image: url('../images/fw-bg.jpg');}
+#section-feature .slider-part {background-color: rgba(255,255,255,.95); color: #ffffff}
+#section-feature .slider-part .wrapper .item {border-color: #ffffff;}
+#section-blog {background-color: rgba(255,255,255,.15); color: #ffffff}
+#blogs .card {background-color: rgba(255,255,255,.20); color: #ffffff; box-shadow: 0 0 7px 0 rgba(255,255,255,.5);}
+.pagination .page-numbers {border-color: #ffffff; color: #ffffff;}
+#section-about {background-color: rgba(255,255,255,.1); color: #ffffff}
+#section-team {background-color: rgba(255,255,255,.15); color: #ffffff}
+#section-investment {background-color: rgba(255,255,255,.1); color: #ffffff; background-image: url('../images/Investment.jpg');}
+#section-widgets {background-color: rgba(255,255,255,.1); color: #ffffff}
+#section-widgets a {color: #ffffff;}
+#section-widgets .social-list a {border-color: #ffffff;}
+#footer {background-color: rgba(255,255,255,.15); color: #ffffff}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+	.navbar-custom-bg {background-color: rgba(255,255,255,.5);}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}

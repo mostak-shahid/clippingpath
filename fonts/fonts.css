@@ -1,0 +1,126 @@
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Thin.eot');
+	src: url('Kanit/Kanit-Thin.eot') format('embedded-opentype'), url('Kanit/Kanit-Thin.ttf') format('truetype'), url('Kanit/Kanit-Thin.svg') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Thin.eot');
+	src: url('Kanit/Kanit-Thin.eot') format('embedded-opentype'), url('Kanit/Kanit-Thin.ttf') format('truetype'), url('Kanit/Kanit-Thin.svg') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-ExtraLight.eot');
+	src: url('Kanit/Kanit-ExtraLight.eot') format('embedded-opentype'), url('Kanit/Kanit-ExtraLight.ttf') format('truetype'), url('Kanit/Kanit-ExtraLight.svg') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-ExtraLightItalic.eot');
+	src: url('Kanit/Kanit-ExtraLightItalic.eot') format('embedded-opentype'), url('Kanit/Kanit-ExtraLightItalic.ttf') format('truetype'), url('Kanit/Kanit-ExtraLightItalic.svg') format('svg');
+	font-weight: 200;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Light.eot');
+	src: url('Kanit/Kanit-Light.eot') format('embedded-opentype'), url('Kanit/Kanit-Light.ttf') format('truetype'), url('Kanit/Kanit-Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-LightItalic.eot');
+	src: url('Kanit/Kanit-LightItalic.eot') format('embedded-opentype'), url('Kanit/Kanit-LightItalic.ttf') format('truetype'), url('Kanit/Kanit-LightItalic.svg') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Regular.eot');
+	src: url('Kanit/Kanit-Regular.eot') format('embedded-opentype'), url('Kanit/Kanit-Regular.ttf') format('truetype'), url('Kanit/Kanit-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Italic.eot');
+	src: url('Kanit/Kanit-Italic.eot') format('embedded-opentype'), url('Kanit/Kanit-Italic.ttf') format('truetype'), url('Kanit/Kanit-Italic.svg') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Medium.eot');
+	src: url('Kanit/Kanit-Medium.eot') format('embedded-opentype'), url('Kanit/Kanit-Medium.ttf') format('truetype'), url('Kanit/Kanit-Medium.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-MediumItalic.eot');
+	src: url('Kanit/Kanit-MediumItalic.eot') format('embedded-opentype'), url('Kanit/Kanit-MediumItalic.ttf') format('truetype'), url('Kanit/Kanit-MediumItalic.svg') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-SemiBold.eot');
+	src: url('Kanit/Kanit-SemiBold.eot') format('embedded-opentype'), url('Kanit/Kanit-SemiBold.ttf') format('truetype'), url('Kanit/Kanit-SemiBold.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-SemiBoldItalic.eot');
+	src: url('Kanit/Kanit-SemiBoldItalic.eot') format('embedded-opentype'), url('Kanit/Kanit-SemiBoldItalic.ttf') format('truetype'), url('Kanit/Kanit-SemiBoldItalic.svg') format('svg');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Bold.eot');
+	src: url('Kanit/Kanit-Bold.eot') format('embedded-opentype'), url('Kanit/Kanit-Bold.ttf') format('truetype'), url('Kanit/Kanit-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-BoldItalic.eot');
+	src: url('Kanit/Kanit-BoldItalic.eot') format('embedded-opentype'), url('Kanit/Kanit-BoldItalic.ttf') format('truetype'), url('Kanit/Kanit-BoldItalic.svg') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-ExtraBold.eot');
+	src: url('Kanit/Kanit-ExtraBold.eot') format('embedded-opentype'), url('Kanit/Kanit-ExtraBold.ttf') format('truetype'), url('Kanit/Kanit-ExtraBold.svg') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-ExtraBoldItalic.eot');
+	src: url('Kanit/Kanit-ExtraBoldItalic.eot') format('embedded-opentype'), url('Kanit/Kanit-ExtraBoldItalic.ttf') format('truetype'), url('Kanit/Kanit-ExtraBoldItalic.svg') format('svg');
+	font-weight: 800;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-Black.eot');
+	src: url('Kanit/Kanit-Black.eot') format('embedded-opentype'), url('Kanit/Kanit-Black.ttf') format('truetype'), url('Kanit/Kanit-Black.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Kanit';
+	src: url('Kanit/Kanit-BlackItalic.eot');
+	src: url('Kanit/Kanit-BlackItalic.eot') format('embedded-opentype'), url('Kanit/Kanit-BlackItalic.ttf') format('truetype'), url('Kanit/Kanit-BlackItalic.svg') format('svg');
+	font-weight: 900;
+	font-style: italic;
+}
